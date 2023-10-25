@@ -1,0 +1,26 @@
+.chat__form {
+  padding: 30px 15px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.form__input {
+  width: 600px;
+  height: 40px;
+}
+
+.form__btn {
+  padding: 0;
+  top: 35px;
+  right: 20px;
+  position: absolute;
+  border-radius: 60%;
+  height: 36px;
+  width: 36px;
+}
+
+.btn__logo {
+  padding: 0;
+  height: 35px;
+}

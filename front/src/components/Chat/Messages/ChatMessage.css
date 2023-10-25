@@ -1,0 +1,15 @@
+.chat__message {
+  padding: 15px;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  width: 400px;
+}
+
+.my {
+  border-color: #00861f;
+}
+
+.other {
+  border-color: #cbf668;
+  align-self: flex-start;
+}
